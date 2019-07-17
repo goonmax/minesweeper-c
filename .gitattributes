@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.vs/gui/v16/ipch/AutoPCH/a95babad6f318002/APP.ipch filter=lfs diff=lfs merge=lfs -text
+*.vs/gui/v16/ipch/AutoPCH/4ea4c54c51804eab/MAIN.ipch filter=lfs diff=lfs merge=lfs -text
+*.vs/gui/v16/ipch/AutoPCH/213831cdd33c7cf8/MAIN.ipch filter=lfs diff=lfs merge=lfs -text
